@@ -1,0 +1,1 @@
+from CSGOFastParser import CSGOFastParser
