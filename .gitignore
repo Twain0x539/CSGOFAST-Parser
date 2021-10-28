@@ -153,3 +153,9 @@ fabric.properties
 #auth key
 key
 key.pub
+
+#python notebooks
+*.ipynb
+
+#parsed data
+*.csv

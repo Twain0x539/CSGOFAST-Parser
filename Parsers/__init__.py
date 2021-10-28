@@ -1,1 +1,1 @@
-from CSGOFastParser import CSGOFastParser
+from .CSGOFastParser import CSGOFastParser
